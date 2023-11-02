@@ -1,0 +1,6 @@
+PAYMENT_ID,PAYMENT_TYPE_DESC
+205,Lease
+210,Cash
+215,Bank Draft
+220,Loan
+225,Other
